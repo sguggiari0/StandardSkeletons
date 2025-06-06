@@ -4,8 +4,8 @@ This repo contains a set of standard skeletons used across DCC for reference.
 
 ![skeletons_image](image.gif)
 
-Skeletons Available:
-
+**Skeletons Available:**
+```
  ☐ HumanIK (HIK) (Autodesk)
  ✓ YBot - Mixamo (Adobe)
  ✓ Mannequin - Unreal Engine (UE4)
@@ -24,7 +24,6 @@ Skeletons Available:
  ✓ Character - Synty Assets Skeleton
  ☐ Unity mocap online
  ☐ SMPL
-
----
+```
 ✓ = available
 ☐ = TODO
