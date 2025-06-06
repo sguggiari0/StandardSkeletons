@@ -27,3 +27,8 @@ This repo contains a set of standard skeletons used across DCC for reference.
 ```
 ✓ = available
 ☐ = TODO
+
+
+---
+[This Google Sheet](https://docs.google.com/spreadsheets/d/1TWTtSdNhozVys23JobgAPSFMcAIOkfyOq2gf3ofywbs/edit?usp=sharing) has an in-depth comparison of different standard skeletons.
+![table](table.png)
