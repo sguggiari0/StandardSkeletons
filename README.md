@@ -6,24 +6,25 @@ This repo contains a set of standard skeletons used across DCC for reference.
 
 **Skeletons Available:**
 ```
- ☐ HumanIK (HIK) (Autodesk)
+ ☐ HumanIK (HIK) (Autodesk) @high
  ✓ YBot - Mixamo (Adobe)
  ✓ Mannequin - Unreal Engine (UE4)
- ☐ Mannequin - Unreal Engine(UE5)
+ ✓ Mannequin - Unreal Engine(UE5)
  ✓ Armature - Unity Humanoid Rig
  ✓ KyleRobot - Unity
  ☐ BVH - (Biovision Hierarchy) (CMU Mocap)
  ☐ Rigify (Blender)
- ☐ MetaHuman Skeleton
+ ✓ MetaHuman Skeleton - Unreal
  ✓ Manny - R15 (Roblox)
  ✓ MrCrash - R15 (Roblox)
- ☐ Valve Biped
+ ☐ Valve Biped @high
  ☐ DAZ Genesis Skeletons
- ✓ Red Dead/GTA
- ☐ Autosetup Hierarchy
+ ✓ ArthurMorgan - Red Dead (Rockstar)
+ ✓ Autosetup Hierarchy
  ✓ Character - Synty Assets Skeleton
- ☐ Unity mocap online
- ☐ SMPL
+ ✘ Unity mocap online
+ ✓ SMPL
+ ☐ TLOU
 ```
 ✓ = available
 ☐ = TODO
